@@ -37,7 +37,7 @@
     vertical-align: top;
   ">
     <img 
-      src="https://github.com/Anandu1709/Anandu1709/blob/main/gitpro.png"
+      src="https://github.com/Anandu1709/Anandu1709/blob/main/gitpro.jpg"
       width="260"
       style="border-radius: 12px;"
     />
