@@ -33,7 +33,7 @@
   <div style="
     display: inline-block;
     width: 40%;
-    text-align: right;
+    text-align: center;
     vertical-align: top;
   ">
     <img 
