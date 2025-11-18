@@ -45,7 +45,7 @@ Hello! I'm Anandu, a B.Tech student specializing in Artificial Intelligence and 
 
 ## GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anandu1709i&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anandu1709&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-regi&theme=radical" alt="GitHub Streak"/>
 </p>
 
