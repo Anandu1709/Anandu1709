@@ -13,17 +13,21 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      Hello! I'm <strong>Anandu</strong>, a B.Tech student specializing in Artificial Intelligence and Data Science.  
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none; vertical-align: middle;">
+      Hello! I'm <strong>Anandu</strong>, a B.Tech student specializing in Artificial Intelligence and Data Science.<br><br>
       Turning ideas into intelligent, user-focused applications through AI, ML, and full-stack engineering.
     </td>
-    <td width="40%" align="right">
-      <img src="https://github.com/Anandu1709/Anandu1709/blob/main/giprofile.png" alt="Anandu" width="200" style="border-radius: 12px;"/>
+    <td width="40%" align="right" style="border: none;">
+      <img src="https://github.com/Anandu1709/Anandu1709/blob/main/giprofile.png" 
+           alt="Anandu" 
+           width="400" 
+           style="border-radius: 12px; border: none; box-shadow: none;" />
     </td>
   </tr>
 </table>
+
 
 
 ### Programming Languages and Databases
