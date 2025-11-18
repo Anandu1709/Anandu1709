@@ -1,18 +1,54 @@
+<h1 align="center">ANANDU BINY</h1>
+<p align="center">
+  <strong>B.Tech in AI & Data Science</strong><br>
+  <em>Software Developer | AI Engineer | Data Science Specialist</em>
+</p>
 
-Hi, I'm Anandu Biny<br><br>I'm an AI & Full-Stack Developer passionate about building intelligent systems and transforming ideas into clean, scalable applications. I love exploring the intersection of AI, UI design, and modern web technologies, creating solutions that are both functional and user-centric.<br><br>🚀 What I Do<br><br>🧠 AI & Machine Learning — model development, experiment pipelines, and applied AI projects<br><br>🖥️ Full-Stack Development — Python, Flask, REST APIs, UI integration<br><br>🎨 AI-powered UI Design — crafting intuitive and intelligent interfaces<br><br>📌 Featured Projects<br><br>AntiPhish — Intelligent phishing detection and online safety solution<br><br>CareNXT — Healthcare platform built during a hackathon focusing on user-centric workflows<br><br>💡 I’m Known For<br><br>Creative problem-solving<br><br>Deep curiosity and persistent learning<br><br>Strong teamwork and communication<br><br>Ambition to build systems that create real impact<br><br>🎯 What Drives Me<br><br>I’m driven by the vision to build technology that feels smart, simple, and human.<br>Whether it’s an AI-powered workflow, an efficient backend system, or a well-crafted interface—<br>I aim to create products that make life easier and experiences smoother.
+<p align="center">
+  <a href="https://www.linkedin.com/in/anandubiny/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://anandu1709.github.io/ab/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:anandubiny@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
+## About Me
+Hello! I'm Anandu, a B.Tech student specializing in Artificial Intelligence and Data Science. Turning ideas into intelligent, user-focused applications through AI, ML, and full-stack engineering.
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anandubiny) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandubiny_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandubiny)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandubiny@gmail.com) 
+## Skills & Technologies
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anandu1709&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anandu1709&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandu1709&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Programming Languages and Databases
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Anandu1709&icon=0&color=0)](https://visitcount.itsvg.in)
+### Data Science & ML
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Development & Design
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
+  <img src="https://www.cursor.com/favicon.ico" alt="Cursor AI" width="50" height="50"/>
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" width="50" height="50" style="margin:5px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50" height="50" style="margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50" style="margin:5px"/>
+</p>
+
+## GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandubinyi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abin-regi&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <i>Open to collaborations and opportunities in AI and Data Science.</i>
+</p>
