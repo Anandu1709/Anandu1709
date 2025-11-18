@@ -13,21 +13,23 @@
 
 ## About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<table style="border: none !important; border-collapse: collapse;">
+  <tr style="border: none !important;">
+    <td style="border: none !important; vertical-align: middle; width: 60%; padding: 0;">
+      Hello! I'm <strong>Anandu</strong>, a B.Tech student specializing in Artificial Intelligence and Data Science.<br><br>
+      Turning ideas into intelligent, user-focused applications through AI, ML, and full-stack engineering.
+    </td>
+    <td style="border: none !important; text-align: right; width: 40%; padding: 0;">
+      <img 
+        src="https://github.com/Anandu1709/Anandu1709/blob/main/giprofile.png"
+        alt="Anandu"
+        width="280"
+        style="border: none; border-radius: 12px; box-shadow: none; margin: 0;"
+      />
+    </td>
+  </tr>
+</table>
 
-  <div style="flex: 1;">
-    Hello! I'm <strong>Anandu</strong>, a B.Tech student specializing in Artificial Intelligence and Data Science.  
-    Turning ideas into intelligent, user-focused applications through AI, ML, and full-stack engineering.
-  </div>
-
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/Anandu1709/Anandu1709/blob/main/giprofile.png"
-         alt="Anandu"
-         width="300"
-         style="border: none; border-radius: 12px; box-shadow: none;">
-  </div>
-
-</div>
 
 
 
