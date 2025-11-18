@@ -50,7 +50,7 @@
 
 
 ### Programming Languages and Databases
-<p style="display: flex; gap: 25px; flex-wrap: wrap;">
+<p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
@@ -63,7 +63,7 @@
 
 
 ### Data Science & ML
-<p style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
   
