@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/anandubiny/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://anandu1709.github.io/ab/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:anandubiny@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://anandu1709.github.io/ab/" ><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ## About Me
@@ -51,4 +52,11 @@ Hello! I'm Anandu, a B.Tech student specializing in Artificial Intelligence and 
 
 <p align="center">
   <i>Open to collaborations and opportunities in AI and Data Science.</i>
+</p>
+
+
+## 🤝 Let's Collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/anandubiny/"><img src="https://img.shields.io/badge/Let's%20Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:anandubiny@gmail.com"><img src="https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
