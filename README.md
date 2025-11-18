@@ -12,9 +12,19 @@
 </p>
 
 ## About Me
-Hello! I'm Anandu, a B.Tech student specializing in Artificial Intelligence and Data Science. Turning ideas into intelligent, user-focused applications through AI, ML, and full-stack engineering.
 
-## Skills & Technologies
+<table>
+  <tr>
+    <td width="60%">
+      Hello! I'm <strong>Anandu</strong>, a B.Tech student specializing in Artificial Intelligence and Data Science.  
+      Turning ideas into intelligent, user-focused applications through AI, ML, and full-stack engineering.
+    </td>
+    <td width="40%" align="right">
+      <img src="https://github.com/Anandu1709/Anandu1709/blob/main/giprofile.png" alt="Anandu" width="200" style="border-radius: 12px;"/>
+    </td>
+  </tr>
+</table>
+
 
 ### Programming Languages and Databases
 <p>
