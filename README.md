@@ -7,9 +7,11 @@
   </p>
   <p>Building AI systems, intelligent automation, and scalable software products.</p>
   <p>
-    <a href="https://linkedin.com/in/anandubiny" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0f6e56?style=flat-square&logo=linkedin&logoColor=1d9e75" alt="LinkedIn"></a>
-    <a href="https://github.com/Anandu1709" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0f6e56?style=flat-square&logo=google-chrome&logoColor=1d9e75" alt="Portfolio"></a>
-    <a href="mailto:anandubiny@gmail.com"><img src="https://img.shields.io/badge/-Email-0f6e56?style=flat-square&logo=gmail&logoColor=1d9e75" alt="Email"></a>
+    <a href="https://linkedin.com/in/anandubiny" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    &nbsp;
+    <a href="https://github.com/Anandu1709" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-21262d?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+    &nbsp;
+    <a href="mailto:anandubiny@gmail.com"><img src="https://img.shields.io/badge/-Email-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
@@ -31,86 +33,107 @@ I build AI systems that solve real-world problems through intelligent automation
 
 ### <font color="#0f6e56">FEATURED PROJECTS</font>
 
-<blockquote>
-  <strong>Electronics Assistant</strong> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Multimodal%20%C2%B7%20RAG-085041?style=flat-square" alt="Multimodal · RAG" valign="middle">
-  <br>
-  <sub><strong><font color="#1d9e75">TECHNICAL KNOWLEDGE RETRIEVAL SYSTEM</font></strong></sub>
-  <br><br>
-  Agentic AI system for retrieving and reasoning over electronics documentation using hybrid search, multimodal understanding, and LLM-powered response synthesis.
-  <br><br>
-  <img src="https://img.shields.io/badge/-LangGraph-21262d?style=flat-square" alt="LangGraph">
-  <img src="https://img.shields.io/badge/-RAG-21262d?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/-Milvus-21262d?style=flat-square" alt="Milvus">
-  <img src="https://img.shields.io/badge/-BM25-21262d?style=flat-square" alt="BM25">
-  <img src="https://img.shields.io/badge/-CLIP-21262d?style=flat-square" alt="CLIP">
-  <img src="https://img.shields.io/badge/-Gemini-21262d?style=flat-square" alt="Gemini">
-  <img src="https://img.shields.io/badge/-FastAPI-21262d?style=flat-square" alt="FastAPI">
-  <br><br>
-  <a href="https://github.com/Anandu1709/electronics-assistant" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-1d9e75?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
-</blockquote>
+<table width="100%">
+  <tr>
+    <td>
+      <strong>Electronics Assistant</strong> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Multimodal%20%C2%B7%20RAG-085041?style=flat-square" alt="Multimodal · RAG" valign="middle">
+      <br>
+      <sub><strong><font color="#1d9e75">TECHNICAL KNOWLEDGE RETRIEVAL SYSTEM</font></strong></sub>
+      <br><br>
+      Agentic AI system for retrieving and reasoning over electronics documentation using hybrid search, multimodal understanding, and LLM-powered response synthesis.
+      <br><br>
+      <img src="https://img.shields.io/badge/-LangGraph-21262d?style=flat-square" alt="LangGraph">
+      <img src="https://img.shields.io/badge/-RAG-21262d?style=flat-square" alt="RAG">
+      <img src="https://img.shields.io/badge/-Milvus-21262d?style=flat-square" alt="Milvus">
+      <img src="https://img.shields.io/badge/-BM25-21262d?style=flat-square" alt="BM25">
+      <img src="https://img.shields.io/badge/-CLIP-21262d?style=flat-square" alt="CLIP">
+      <img src="https://img.shields.io/badge/-Gemini-21262d?style=flat-square" alt="Gemini">
+      <img src="https://img.shields.io/badge/-FastAPI-21262d?style=flat-square" alt="FastAPI">
+      <br><br>
+      <a href="https://github.com/Anandu1709/electronics-assistant" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-1d9e75?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+    </td>
+  </tr>
+</table>
 
-<blockquote>
-  <strong>AURA</strong> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Agentic%20%C2%B7%20Desktop-085041?style=flat-square" alt="Agentic · Desktop" valign="middle">
-  <br>
-  <sub><strong><font color="#1d9e75">AGENTIC DESKTOP AI ASSISTANT</font></strong></sub>
-  <br><br>
-  Autonomous desktop assistant capable of understanding commands, executing multi-step workflows, making intelligent decisions, and controlling desktop operations through natural language.
-  <br><br>
-  <img src="https://img.shields.io/badge/-Python-21262d?style=flat-square" alt="Python">
-  <img src="https://img.shields.io/badge/-LLMs-21262d?style=flat-square" alt="LLMs">
-  <img src="https://img.shields.io/badge/-Voice%20AI-21262d?style=flat-square" alt="Voice AI">
-  <img src="https://img.shields.io/badge/-Automation-21262d?style=flat-square" alt="Automation">
-  <br><br>
-  <a href="https://github.com/Anandu1709/AURA" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-1d9e75?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
-</blockquote>
+<br>
 
-<blockquote>
-  <strong>AntiPhish</strong> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-%F0%9F%8F%86%20First%20Prize-3c3489?style=flat-square" alt="🏆 First Prize" valign="middle">
-  <br>
-  <sub><strong><font color="#1d9e75">AWARD-WINNING AI BROWSER EXTENSION</font></strong></sub>
-  <br><br>
-  Detects phishing URLs and scam messages using machine learning and rule-based analysis to provide real-time protection against online threats.
-  <br><br>
-  <img src="https://img.shields.io/badge/-Python-21262d?style=flat-square" alt="Python">
-  <img src="https://img.shields.io/badge/-JavaScript-21262d?style=flat-square" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=flat-square" alt="Machine Learning">
-  <br><br>
-  <a href="https://github.com/Anandu1709/AntiPhish" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-1d9e75?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
-</blockquote>
+<table width="100%">
+  <tr>
+    <td>
+      <strong>AURA</strong> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Agentic%20%C2%B7%20Desktop-085041?style=flat-square" alt="Agentic · Desktop" valign="middle">
+      <br>
+      <sub><strong><font color="#1d9e75">AGENTIC DESKTOP AI ASSISTANT</font></strong></sub>
+      <br><br>
+      Autonomous desktop assistant capable of understanding commands, executing multi-step workflows, making intelligent decisions, and controlling desktop operations through natural language.
+      <br><br>
+      <img src="https://img.shields.io/badge/-Python-21262d?style=flat-square" alt="Python">
+      <img src="https://img.shields.io/badge/-LLMs-21262d?style=flat-square" alt="LLMs">
+      <img src="https://img.shields.io/badge/-Voice%20AI-21262d?style=flat-square" alt="Voice AI">
+      <img src="https://img.shields.io/badge/-Automation-21262d?style=flat-square" alt="Automation">
+      <br><br>
+      <a href="https://github.com/Anandu1709/AURA" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-1d9e75?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td>
+      <strong>AntiPhish</strong> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-%F0%9F%8F%86%20First%20Prize-3c3489?style=flat-square" alt="🏆 First Prize" valign="middle">
+      <br>
+      <sub><strong><font color="#1d9e75">AWARD-WINNING AI BROWSER EXTENSION</font></strong></sub>
+      <br><br>
+      Detects phishing URLs and scam messages using machine learning and rule-based analysis to provide real-time protection against online threats.
+      <br><br>
+      <img src="https://img.shields.io/badge/-Python-21262d?style=flat-square" alt="Python">
+      <img src="https://img.shields.io/badge/-JavaScript-21262d?style=flat-square" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=flat-square" alt="Machine Learning">
+      <br><br>
+      <a href="https://github.com/Anandu1709/AntiPhish" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-1d9e75?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### <font color="#0f6e56">TECH STACK</font>
 
-**AI Engineering**
-<p>
-  <img src="https://img.shields.io/badge/-Python-0f6e56?style=flat-square" alt="Python">
-  <img src="https://img.shields.io/badge/-LangGraph-0f6e56?style=flat-square" alt="LangGraph">
-  <img src="https://img.shields.io/badge/-RAG-0f6e56?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/-LLMs-0f6e56?style=flat-square" alt="LLMs">
-  <img src="https://img.shields.io/badge/-Milvus-21262d?style=flat-square" alt="Milvus">
-  <img src="https://img.shields.io/badge/-BM25-21262d?style=flat-square" alt="BM25">
-  <img src="https://img.shields.io/badge/-FastAPI-21262d?style=flat-square" alt="FastAPI">
-  <img src="https://img.shields.io/badge/-Azure%20AI-21262d?style=flat-square" alt="Azure AI">
-</p>
-
-**Software Development**
-<p>
-  <img src="https://img.shields.io/badge/-React-0f6e56?style=flat-square" alt="React">
-  <img src="https://img.shields.io/badge/-TypeScript-0f6e56?style=flat-square" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-JavaScript-21262d?style=flat-square" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-MongoDB-21262d?style=flat-square" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-REST%20API-21262d?style=flat-square" alt="REST API">
-  <img src="https://img.shields.io/badge/-Flask-21262d?style=flat-square" alt="Flask">
-</p>
-
-**Frontend Engineering**
-<p>
-  <img src="https://img.shields.io/badge/-React-21262d?style=flat-square" alt="React">
-  <img src="https://img.shields.io/badge/-Material%20UI-21262d?style=flat-square" alt="Material UI">
-  <img src="https://img.shields.io/badge/-Figma-21262d?style=flat-square" alt="Figma">
-  <img src="https://img.shields.io/badge/-UI%2FUX-21262d?style=flat-square" alt="UI/UX">
-</p>
+<table width="100%">
+  <tr>
+    <td valign="top" width="33%">
+      <strong><font color="#1d9e75">AI Engineering</font></strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/-Python-0f6e56?style=flat-square" alt="Python"><br>
+      <img src="https://img.shields.io/badge/-LangGraph-0f6e56?style=flat-square" alt="LangGraph"><br>
+      <img src="https://img.shields.io/badge/-RAG-0f6e56?style=flat-square" alt="RAG"><br>
+      <img src="https://img.shields.io/badge/-LLMs-0f6e56?style=flat-square" alt="LLMs"><br>
+      <img src="https://img.shields.io/badge/-Milvus-21262d?style=flat-square" alt="Milvus"><br>
+      <img src="https://img.shields.io/badge/-BM25-21262d?style=flat-square" alt="BM25"><br>
+      <img src="https://img.shields.io/badge/-FastAPI-21262d?style=flat-square" alt="FastAPI"><br>
+      <img src="https://img.shields.io/badge/-Azure%20AI-21262d?style=flat-square" alt="Azure AI">
+    </td>
+    <td valign="top" width="33%">
+      <strong><font color="#1d9e75">Software Development</font></strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/-React-0f6e56?style=flat-square" alt="React"><br>
+      <img src="https://img.shields.io/badge/-TypeScript-0f6e56?style=flat-square" alt="TypeScript"><br>
+      <img src="https://img.shields.io/badge/-JavaScript-21262d?style=flat-square" alt="JavaScript"><br>
+      <img src="https://img.shields.io/badge/-MongoDB-21262d?style=flat-square" alt="MongoDB"><br>
+      <img src="https://img.shields.io/badge/-REST%20API-21262d?style=flat-square" alt="REST API"><br>
+      <img src="https://img.shields.io/badge/-Flask-21262d?style=flat-square" alt="Flask">
+    </td>
+    <td valign="top" width="33%">
+      <strong><font color="#1d9e75">Frontend Engineering</font></strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/-React-21262d?style=flat-square" alt="React"><br>
+      <img src="https://img.shields.io/badge/-Material%20UI-21262d?style=flat-square" alt="Material UI"><br>
+      <img src="https://img.shields.io/badge/-Figma-21262d?style=flat-square" alt="Figma"><br>
+      <img src="https://img.shields.io/badge/-UI%2FUX-21262d?style=flat-square" alt="UI/UX">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -174,9 +197,9 @@ I build AI systems that solve real-world problems through intelligent automation
 <div align="center">
   <p><strong>Open to collaborations, AI engineering opportunities, and innovative software projects.</strong></p>
   <p>
-    <a href="https://linkedin.com/in/anandubiny" target="_blank"><img src="https://img.shields.io/badge/-Let's%20talk-085041?style=for-the-badge&logo=linkedin&logoColor=9fe1cb" alt="Let's talk"></a>
+    <a href="https://linkedin.com/in/anandubiny" target="_blank"><img src="https://img.shields.io/badge/-Let's%20talk-21262d?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk"></a>
     &nbsp;
-    <a href="mailto:anandubiny@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-0f6e56?style=for-the-badge&logo=gmail&logoColor=1d9e75" alt="Email me"></a>
+    <a href="mailto:anandubiny@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
   </p>
   <br>
   <p><em><font color="#7d8590">Building systems that turn intelligence into action.</font></em></p>
