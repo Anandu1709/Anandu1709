@@ -1,9 +1,7 @@
 <div align="center">
   <h1>ANANDU BINY</h1>
   <p>
-    <font color="#0f6e56">&bull;</font>
-    <strong><font color="#1d9e75">AI ENGINEER &bull; SOFTWARE DEVELOPER &bull; FRONTEND ENGINEER</font></strong>
-    <font color="#0f6e56">&bull;</font>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=1d9e75&background=0d111700&center=true&vCenter=true&width=600&lines=AI+Engineer;Software+Developer;Frontend+Engineer" alt="AI Engineer · Software Developer · Frontend Engineer"></a>
   </p>
   <p>Building AI systems, intelligent automation, and scalable software products.</p>
   <p>
