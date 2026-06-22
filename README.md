@@ -200,10 +200,10 @@ I build AI systems that solve real-world problems through intelligent automation
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Anandu1709&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Anandu1709&show_icons=true&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=Anandu1709&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="100%">
+      <img src="https://streak-stats.demolab.com?user=Anandu1709&background=0d1117&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=7d8590&hide_border=true" alt="Streak Stats" width="100%">
     </td>
   </tr>
 </table>
