@@ -58,7 +58,7 @@ I build AI systems that solve real-world problems through intelligent automation
         <font color="#1d9e75">FastAPI</font>
       </samp>
       <br><br>
-      <a href="https://github.com/Anandu1709/electronics-assistant" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+      <a href="https://github.com/Anandu1709/electronics-assistant" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-21262d?style=for-the-badge&logo=github&logoColor=14b8a6" alt="View Repository"></a>
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@ I build AI systems that solve real-world problems through intelligent automation
         <font color="#1d9e75">Automation</font>
       </samp>
       <br><br>
-      <a href="https://github.com/Anandu1709/AURA" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+      <a href="https://github.com/Anandu1709/AURA" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-21262d?style=for-the-badge&logo=github&logoColor=14b8a6" alt="View Repository"></a>
     </td>
   </tr>
 </table>
@@ -115,7 +115,7 @@ I build AI systems that solve real-world problems through intelligent automation
         <font color="#1d9e75">Machine Learning</font>
       </samp>
       <br><br>
-      <a href="https://github.com/Anandu1709/AntiPhish" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+      <a href="https://github.com/Anandu1709/AntiPhish" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-21262d?style=for-the-badge&logo=github&logoColor=14b8a6" alt="View Repository"></a>
     </td>
   </tr>
 </table>
