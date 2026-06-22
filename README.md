@@ -50,7 +50,7 @@ I build AI systems that solve real-world problems through intelligent automation
       <img src="https://img.shields.io/badge/-Gemini-21262d?style=flat-square" alt="Gemini">
       <img src="https://img.shields.io/badge/-FastAPI-21262d?style=flat-square" alt="FastAPI">
       <br><br>
-      <a href="https://github.com/Anandu1709/electronics-assistant" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-1d9e75?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+      <a href="https://github.com/Anandu1709/electronics-assistant" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@ I build AI systems that solve real-world problems through intelligent automation
       <img src="https://img.shields.io/badge/-Voice%20AI-21262d?style=flat-square" alt="Voice AI">
       <img src="https://img.shields.io/badge/-Automation-21262d?style=flat-square" alt="Automation">
       <br><br>
-      <a href="https://github.com/Anandu1709/AURA" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-1d9e75?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+      <a href="https://github.com/Anandu1709/AURA" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
   </tr>
 </table>
@@ -91,85 +91,89 @@ I build AI systems that solve real-world problems through intelligent automation
       <img src="https://img.shields.io/badge/-JavaScript-21262d?style=flat-square" alt="JavaScript">
       <img src="https://img.shields.io/badge/-Machine%20Learning-21262d?style=flat-square" alt="Machine Learning">
       <br><br>
-      <a href="https://github.com/Anandu1709/AntiPhish" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-1d9e75?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+      <a href="https://github.com/Anandu1709/AntiPhish" target="_blank"><img src="https://img.shields.io/badge/-View%20Repository-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### <font color="#0f6e56">TECH STACK</font>
+<div align="center">
+  <h3><font color="#0f6e56">TECH STACK</font></h3>
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="33%">
-      <strong><font color="#1d9e75">AI Engineering</font></strong>
-      <br><br>
-      <img src="https://img.shields.io/badge/-Python-0f6e56?style=flat-square" alt="Python"><br>
-      <img src="https://img.shields.io/badge/-LangGraph-0f6e56?style=flat-square" alt="LangGraph"><br>
-      <img src="https://img.shields.io/badge/-RAG-0f6e56?style=flat-square" alt="RAG"><br>
-      <img src="https://img.shields.io/badge/-LLMs-0f6e56?style=flat-square" alt="LLMs"><br>
-      <img src="https://img.shields.io/badge/-Milvus-21262d?style=flat-square" alt="Milvus"><br>
-      <img src="https://img.shields.io/badge/-BM25-21262d?style=flat-square" alt="BM25"><br>
-      <img src="https://img.shields.io/badge/-FastAPI-21262d?style=flat-square" alt="FastAPI"><br>
-      <img src="https://img.shields.io/badge/-Azure%20AI-21262d?style=flat-square" alt="Azure AI">
-    </td>
-    <td valign="top" width="33%">
-      <strong><font color="#1d9e75">Software Development</font></strong>
-      <br><br>
-      <img src="https://img.shields.io/badge/-React-0f6e56?style=flat-square" alt="React"><br>
-      <img src="https://img.shields.io/badge/-TypeScript-0f6e56?style=flat-square" alt="TypeScript"><br>
-      <img src="https://img.shields.io/badge/-JavaScript-21262d?style=flat-square" alt="JavaScript"><br>
-      <img src="https://img.shields.io/badge/-MongoDB-21262d?style=flat-square" alt="MongoDB"><br>
-      <img src="https://img.shields.io/badge/-REST%20API-21262d?style=flat-square" alt="REST API"><br>
-      <img src="https://img.shields.io/badge/-Flask-21262d?style=flat-square" alt="Flask">
-    </td>
-    <td valign="top" width="33%">
-      <strong><font color="#1d9e75">Frontend Engineering</font></strong>
-      <br><br>
-      <img src="https://img.shields.io/badge/-React-21262d?style=flat-square" alt="React"><br>
-      <img src="https://img.shields.io/badge/-Material%20UI-21262d?style=flat-square" alt="Material UI"><br>
-      <img src="https://img.shields.io/badge/-Figma-21262d?style=flat-square" alt="Figma"><br>
-      <img src="https://img.shields.io/badge/-UI%2FUX-21262d?style=flat-square" alt="UI/UX">
-    </td>
-  </tr>
-</table>
+  <table width="100%">
+    <tr>
+      <td valign="top" width="33%" align="center">
+        <strong><font color="#1d9e75">AI Engineering</font></strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/-Python-0f6e56?style=flat-square" alt="Python"><br>
+        <img src="https://img.shields.io/badge/-LangGraph-0f6e56?style=flat-square" alt="LangGraph"><br>
+        <img src="https://img.shields.io/badge/-RAG-0f6e56?style=flat-square" alt="RAG"><br>
+        <img src="https://img.shields.io/badge/-LLMs-0f6e56?style=flat-square" alt="LLMs"><br>
+        <img src="https://img.shields.io/badge/-Milvus-21262d?style=flat-square" alt="Milvus"><br>
+        <img src="https://img.shields.io/badge/-BM25-21262d?style=flat-square" alt="BM25"><br>
+        <img src="https://img.shields.io/badge/-FastAPI-21262d?style=flat-square" alt="FastAPI"><br>
+        <img src="https://img.shields.io/badge/-Azure%20AI-21262d?style=flat-square" alt="Azure AI">
+      </td>
+      <td valign="top" width="33%" align="center">
+        <strong><font color="#1d9e75">Software Development</font></strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/-React-0f6e56?style=flat-square" alt="React"><br>
+        <img src="https://img.shields.io/badge/-TypeScript-0f6e56?style=flat-square" alt="TypeScript"><br>
+        <img src="https://img.shields.io/badge/-JavaScript-21262d?style=flat-square" alt="JavaScript"><br>
+        <img src="https://img.shields.io/badge/-MongoDB-21262d?style=flat-square" alt="MongoDB"><br>
+        <img src="https://img.shields.io/badge/-REST%20API-21262d?style=flat-square" alt="REST API"><br>
+        <img src="https://img.shields.io/badge/-Flask-21262d?style=flat-square" alt="Flask">
+      </td>
+      <td valign="top" width="33%" align="center">
+        <strong><font color="#1d9e75">Frontend Engineering</font></strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/-React-21262d?style=flat-square" alt="React"><br>
+        <img src="https://img.shields.io/badge/-Material%20UI-21262d?style=flat-square" alt="Material UI"><br>
+        <img src="https://img.shields.io/badge/-Figma-21262d?style=flat-square" alt="Figma"><br>
+        <img src="https://img.shields.io/badge/-UI%2FUX-21262d?style=flat-square" alt="UI/UX">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### <font color="#0f6e56">ACHIEVEMENTS</font>
+<div align="center">
+  <h3><font color="#0f6e56">ACHIEVEMENTS</font></h3>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <br>
-      <span style="font-size: 30px;">🏆</span>
-      <br><br>
-      <strong>First Prize</strong>
-      <br>
-      <font size="2" color="#7d8590">Vidyut Hackathon 2025</font>
-      <br><br>
-    </td>
-    <td align="center" width="33%">
-      <br>
-      <span style="font-size: 30px;">🥈</span>
-      <br><br>
-      <strong>Second Prize</strong>
-      <br>
-      <font size="2" color="#7d8590">Innovision 2K25</font>
-      <br><br>
-    </td>
-    <td align="center" width="33%">
-      <br>
-      <span style="font-size: 30px;">🏅</span>
-      <br><br>
-      <strong>Top 15</strong>
-      <br>
-      <font size="2" color="#7d8590">CareHack 2025</font>
-      <br><br>
-    </td>
-  </tr>
-</table>
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <br>
+        <span style="font-size: 30px;">🏆</span>
+        <br><br>
+        <strong>First Prize</strong>
+        <br>
+        <font size="2" color="#7d8590">Vidyut Hackathon 2025</font>
+        <br><br>
+      </td>
+      <td align="center" width="33%">
+        <br>
+        <span style="font-size: 30px;">🥈</span>
+        <br><br>
+        <strong>Second Prize</strong>
+        <br>
+        <font size="2" color="#7d8590">Innovision 2K25</font>
+        <br><br>
+      </td>
+      <td align="center" width="33%">
+        <br>
+        <span style="font-size: 30px;">🏅</span>
+        <br><br>
+        <strong>Top 15</strong>
+        <br>
+        <font size="2" color="#7d8590">CareHack 2025</font>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -185,12 +189,6 @@ I build AI systems that solve real-world problems through intelligent automation
     </td>
   </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anandu1709&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="100%">
-</p>
 
 ---
 
